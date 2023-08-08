@@ -1,7 +1,7 @@
 import React from "react";
 
 function OrderWater() {
-  return <div></div>;
+  return <div> place order for your water here!</div>;
 }
 
 export default OrderWater;

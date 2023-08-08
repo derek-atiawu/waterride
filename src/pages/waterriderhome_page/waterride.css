@@ -1,0 +1,22 @@
+.signup {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+}
+
+.signup div {
+  display: flex;
+  width: 150px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.transporter {
+  background-color: aqua;
+}
+
+.user {
+  background-color: aquamarine;
+}
